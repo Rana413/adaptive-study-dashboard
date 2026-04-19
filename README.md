@@ -44,8 +44,8 @@ https://github.com/Rana413/adaptive-study-dashboard.git
 ## AI Tool Disclosure
 
 This project was developed with the assistance of AI-based tools such as:
-- ChatGPT (for guidance and explanation)
-- GitHub Copilot (optional, if used)
+- ChatGPT (for understanding concepts and structuring the solution)
+- GitHub Copilot (for coding assistance)
 
 All outputs were reviewed and modified to ensure understanding and correctness.
 
