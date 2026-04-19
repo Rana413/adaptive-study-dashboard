@@ -51,9 +51,14 @@ All outputs were reviewed and modified to ensure understanding and correctness.
 
 ## References
 
--Medjden, S., Ahmed, N. & Lataifeh, M. (2020). Adaptive User Interface Design and Analysis Using Emotion Recognition Through Facial Expressions and Body Posture from an RGB-D Sensor. PLOS ONE 15(7). https://doi.org/10.1371/journal.pone.0235908
--Brdnik, S., Heričko, T. & Šumak, B. (2022). Intelligent User Interfaces and Their Evaluation: A Systematic Mapping Study. Sensors 22(15). https://doi.org/10.3390/s22155830
--Pajkovic, N. (2022). Algorithms and taste-making: Exposing the Netflix Recommender System's operational logics. Media 44(1), pp. 1-17. https://doi.org/10.1177/13548565211014464
--Norman, D. (2013). The Design of Everyday Things. Basic Books.
--Russell, S., & Norvig, P. (2021). Artificial Intelligence: A Modern Approach. Pearson.
--Shneiderman, B., et al. (2016). Designing the User Interface. Pearson.
+- Medjden, S., Ahmed, N., & Lataifeh, M. (2020). Adaptive user interface design and analysis using emotion recognition through facial expressions and body posture from an RGB-D sensor. PLOS ONE, 15(7), e0235908. https://doi.org/10.1371/journal.pone.0235908
+
+- Brdnik, S., Heričko, T., & Šumak, B. (2022). Intelligent user interfaces and their evaluation: A systematic mapping study. Sensors, 22(15), 5830. https://doi.org/10.3390/s22155830
+
+- Pajkovic, N. (2022). Algorithms and taste-making: Exposing the Netflix recommender system's operational logics. Media, Culture & Society, 44(1), 1–17. https://doi.org/10.1177/13548565211014464
+
+- Norman, D. A. (2013). The design of everyday things (Revised and expanded ed.). Basic Books.
+
+- Russell, S. J., & Norvig, P. (2021). Artificial intelligence: A modern approach (4th ed.). Pearson.
+
+- Shneiderman, B., Plaisant, C., Cohen, M., Jacobs, S., Elmqvist, N., & Diakopoulos, N. (2016). Designing the user interface: Strategies for effective human-computer interaction (6th ed.). Pearson.
