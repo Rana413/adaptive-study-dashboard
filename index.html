@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Adaptive Study Dashboard</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <header class="header">
+      <h1>Adaptive Study Dashboard</h1>
+      <p id="welcomeMessage">Welcome! Your dashboard will adapt based on how you use it.</p>
+    </header>
+
+    <section class="controls">
+      <button id="lightModeBtn">Light Mode</button>
+      <button id="darkModeBtn">Dark Mode</button>
+      <button id="resetBtn">Reset Preferences</button>
+    </section>
+
+    <section class="summary-panel">
+      <div class="summary-box">
+        <h3>Most Used Section</h3>
+        <p id="mostUsed">No activity yet</p>
+      </div>
+      <div class="summary-box">
+        <h3>Recommended Study Mode</h3>
+        <p id="studyMode">Start interacting to get a recommendation</p>
+      </div>
+    </section>
+
+    <section id="dashboardCards" class="dashboard-grid">
+      <div class="card" data-section="quiz">
+        <h2>Quiz Practice</h2>
+        <p>Test your knowledge with a short quiz.</p>
+        <button class="use-btn">Open Quiz</button>
+      </div>
+
+      <div class="card" data-section="tips">
+        <h2>Study Tips</h2>
+        <p>View personalized learning suggestions.</p>
+        <button class="use-btn">View Tips</button>
+      </div>
+
+      <div class="card" data-section="resources">
+        <h2>Resources</h2>
+        <p>Access reading materials and learning links.</p>
+        <button class="use-btn">Open Resources</button>
+      </div>
+
+      <div class="card" data-section="progress">
+        <h2>Progress Tracker</h2>
+        <p>See your current performance and recommendations.</p>
+        <button class="use-btn">View Progress</button>
+      </div>
+    </section>
+
+    <section class="quiz-section">
+      <h2>Mini Quiz</h2>
+      <p>How well do you understand adaptive user interfaces?</p>
+      <button id="lowScoreBtn">I got a low score</button>
+      <button id="highScoreBtn">I got a high score</button>
+      <p id="quizFeedback">Your quiz-based recommendation will appear here.</p>
+    </section>
+
+    <section class="recommendation-section">
+      <h2>Adaptive Recommendation</h2>
+      <p id="recommendationText">
+        The system will recommend content based on your behavior and quiz performance.
+      </p>
+    </section>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
